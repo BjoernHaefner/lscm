@@ -1,0 +1,8 @@
+CMakeLists.txt.user
+build/
+data/*.ply
+data/*.obj
+output/*.ply
+output/*.obj
+output/*.png
+output/*.mtl
